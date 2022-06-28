@@ -1,0 +1,3 @@
+C:/Users/DRUV GERA/CLionProjects/Bus Reservation System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DRUV GERA/CLionProjects/Bus Reservation System/cmake-build-debug/CMakeFiles/untitled21.dir
+C:/Users/DRUV GERA/CLionProjects/Bus Reservation System/cmake-build-debug/CMakeFiles/edit_cache.dir
